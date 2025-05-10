@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+db-to-db_venv/
+
+# Environment Files
+.env
+.env.*
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
+# Output (optional)
+output/

@@ -1,0 +1,38 @@
+bang_SSD 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 F0C6-72A9입니다.
+T:.
+│  README.md
+│  requirements.txt
+│  .env.example
+│  폴더구조.txt
+│  
+├─src
+│      __init__.py
+│      config.py
+│      etl.py
+│      scheduler.py
+│      utils.py
+│      
+├─scripts
+│      run_etl.sh
+│      
+├─docs
+│      design.md
+│      
+├─tests
+│      test_etl.py
+│      
+├─notebooks
+│      exploratory_analysis.ipynb
+│      etl_notebook.ipynb
+│      
+└─data
+    └─raw
+        └─financial_data
+            └─03. 금융데이터
+                    02. [과제명]_테이블정의서_데이터출처포함2.xlsx
+                    account_info.csv
+                    customer_info.csv
+                    loan_info.csv
+                    transaction_info.csv
+                    
